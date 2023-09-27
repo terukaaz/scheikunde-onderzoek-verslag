@@ -1,15 +1,30 @@
 # Kwalitatief onderzoek naar stof 16
 
-> Teru Umene en Huub Hoogweg
-> 13 sep. 2023
+[x] inleiding
+[x] Onderzoeksvraag
+[x] Hypothese
+[x] Materiaal
+[x] Methode
+[x] Waarnemingen
+[ ] Discussie
+[x] Conclusie
+[x] Reflectie
 
-## Inleiding
+> Teru Umene en Huub Hoogweg \
+> klas 3A \
+> \
+> proef 13 sep. 2023 \
+> verslag 27 sep. 2023 \
+> docent Huub Adriaanse
+
+## 
 
 ### Doel
 Het doel van dit onderzoek was om achter te komen welke van de 6 stoffen stof 16 is.
 
 ## Theorie
 Elke stof heeft altijd dezelfde stofeigenschappen, dus als stof 16 dezelfde stofeigenschappen heeft als één van de andere stoffen, zijn ze dezelfde stof.
+Met de metingen die we in dit onderzoek doen kunnen we verscheidene stofeigenschappen bepalen.
 
 ## Onderzoeksvraag
  - Welke van de 5 andere stoffen is stof 16?
@@ -38,11 +53,10 @@ Omdat we de stof zoet vonden ruiken en wit eruit zag, dachten we dat het poeders
 ### Uitvoering
 
 - Schrijf het nummer op van het potje met onbekende stof die je hebt gekregen.
-- Beschrijf de bekende stoffen. Je mag aan de stoffen ruiken, maar ze niet proeven. Doe dit ook voor de onbekende stof.
-- Onderzoek de oplosbaarheid in water van alle stoffen. 
-  - Je doet dit door een spatelpuntje van een stof in een reageerbuis te doen en vervolgens de buis voor ongeveer een kwart met demiwater te vullen. Gebruik hiervoor de spuitfles. Schud het mengsel (kwispelen) en schrijf je waarnemingen op.
-  pH-papier kun je gebruik om te kijken of een mengsel zuur of basisch is. Is de pH hoger dan 7, dan is het mengsel basisch. Is de pH lager dan 7, dan is het mengsel zuur. Bij een pH van 7 noemen we het mengsel neutraal. Scheur kleine stukjes pH papier af en gebruik de glazen roerstaaf om een druppel van het mengsel op het pH-papiertje te brengen. Vergelijk de kleur met de kleuren op het doosje en noteer de bijbehorende pH.
-  Voeg tot slot aan elk van de buizen een scheutje zoutzuur toe.
+- Beschrijf de stoffen.
+- Onderzoek de oplosbaarheid in water van alle stoffen.
+  - Je doet dit door een spatelpuntje van een stof in een reageerbuis te doen en vervolgens de buis voor ongeveer een kwart met demiwater te vullen. Kwispel het buisje kort na toevoegen van vloeistof.
+- Voeg tot slot aan elk van de buizen een scheutje zoutzuur toe.
 
 ## Waarnemingen en resultaten
 Tabel 1.1: onderzoeksresultaten
