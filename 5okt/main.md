@@ -19,6 +19,21 @@ Omdat we de stof zoet vonden ruiken, dachten we dat het poedersuiker was.
 
 ## Materialen
 
+- monsters van vijf witte stoffen: 
+  - poedersuiker
+  - soda
+  - krijt
+  - meel
+  - citroenzuur
+- monster van de onbekende witte stof in een genummerd potje (nummer 16)
+- spuitfles met demi-water
+- zoutzuur (1 M)
+- reageerbuisrek met zes reageerbuizen
+- spatel
+- glazen roerstaaf
+- universeel indicatorpapier (pH papier)
+
+
 Tabel 1: je moered is zoo groot dat de roltrap achteruit ging
 | Column 1 | Column 2 | Column 3 |
 |:--------:| -------- | -------- |
