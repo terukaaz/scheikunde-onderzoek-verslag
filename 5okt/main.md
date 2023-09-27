@@ -58,8 +58,15 @@ Tabel 1.1: onderzoeksresultaten
 
 ## Discussie
 
+Bespreek je resultaten en zet uiteen hoe je met deze resultaten antwoord kunt geven op je onderzoeksvraag.
+
+##### TODO: Docent vragen wat er hier moet staan
 
 ## Conclusie
 Stof 16 is soda omdat de pH-waarde het meest overeenkwam, en het allebei bruisde wanneer zoutzuur werd toegevoegd.
 
 ## Reflectie
+
+De proef ging goed, maar we vonden het lastig om met de PH-papiertjes te werken. (we zijn gwn mid in zien of een vloeistof troebel is)
+
+De conclusie is niet zeker, maar het klopt waarschijnlijk wel, omdat we zeer uiteenzettende resultaten hadden.
