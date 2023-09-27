@@ -10,6 +10,8 @@
 [x] Conclusie
 [x] Reflectie
 
+<img src="https://snoworange420.github.io/assets/bob.png">
+
 > Teru Umene en Huub Hoogweg \
 > klas 3A \
 > \
