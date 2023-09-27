@@ -17,7 +17,7 @@
 > verslag 27 sep. 2023 \
 > docent Huub Adriaanse
 
-## 
+## Inleiding
 
 ### Doel
 Het doel van dit onderzoek was om achter te komen welke van de 6 stoffen stof 16 is.
