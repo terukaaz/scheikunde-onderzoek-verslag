@@ -77,6 +77,8 @@ Tabel 1.1: onderzoeksresultaten
 Bespreek je resultaten en zet uiteen hoe je met deze resultaten antwoord kunt geven op je onderzoeksvraag.
 
 ##### TODO: Docent vragen wat er hier moet staan
+redenen waarom de stoffen hetzelfde zijn
+en waarom stof 16 niet één van de andere stoffen is.
 
 ## Conclusie
 Stof 16 is soda omdat de pH-waarde het meest overeenkwam, en het allebei bruisde wanneer zoutzuur werd toegevoegd.
