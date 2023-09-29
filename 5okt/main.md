@@ -51,7 +51,7 @@ Tabel 1.1: onderzoeksresultaten
 | Stof         | Opvallende kenmerken                                             | Soort mengsel in water | pH-waarde | Zoutzuur toevoegen                   |
 |--------------|------------------------------------------------------------------|------------------------|-----------|--------------------------------------|
 | Stof 16      | Wit poeder, ruikt zoet                                           | Oplossing              | 8,5       | Stof 16 bruist                       |
-| Krijt        | Kleverig, wit poeder                                             | Suspensie              | 6,1       | Het Krijt bruist voor een lange tijd |
+| Krijt        | Kleverig, wit poeder                                             | Suspensie              | 6,1       | Het krijt bruist voor een lange tijd |
 | Poedersuiker | Heel fijn wit poeder, een beetje kleverig, ruikt een beetje zoet | Oplossing              | 5         | -                                    |
 | Citroenzuur  | Witte, grote korrels                                             | Oplossing              | 1,5       | -                                    |
 | Soda         | Wit poeder, beetje kleverig                                      | Oplossing              | 9         | Soda bruist                          |
