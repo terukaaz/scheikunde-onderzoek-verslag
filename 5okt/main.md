@@ -48,7 +48,7 @@ Omdat we de stof zoet vonden ruiken en wit eruit zag, dachten we dat het poeders
 ## Waarnemingen en resultaten
 Tabel 1.1: onderzoeksresultaten
 
-| Stof         | Hoe het ruikt en eruitziet en zo™ (#TODO:)                       | Soort mengsel in water | pH-waarde | Zoutzuur toevoegen                   |
+| Stof         | Opvallende kenmerken                                             | Soort mengsel in water | pH-waarde | Zoutzuur toevoegen                   |
 |--------------|------------------------------------------------------------------|------------------------|-----------|--------------------------------------|
 | Stof 16      | Wit poeder, ruikt zoet                                           | Oplossing              | 8,5       | Stof 16 bruist                       |
 | Krijt        | Kleverig, wit poeder                                             | Suspensie              | 6,1       | Het Krijt bruist voor een lange tijd |
