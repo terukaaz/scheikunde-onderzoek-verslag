@@ -1,16 +1,14 @@
 # Kwalitatief onderzoek naar stof 16
 
-[x] inleiding
-[x] Onderzoeksvraag
-[x] Hypothese
-[x] Materiaal
-[x] Methode
-[x] Waarnemingen
-[ ] Discussie
-[x] Conclusie
-[x] Reflectie
-
-<img src="https://snoworange420.github.io/assets/bob.png">
+- [x] inleiding
+- [x] Onderzoeksvraag
+- [x] Hypothese
+- [x] Materiaal
+- [x] Methode
+- [x] Waarnemingen
+- [x] Discussie
+- [x] Conclusie
+- [x] Reflectie
 
 > Teru Umene en Huub Hoogweg \
 > klas 3A \
@@ -51,7 +49,6 @@ Omdat we de stof zoet vonden ruiken en wit eruit zag, dachten we dat het poeders
 - universeel indicatorpapier (pH papier)
 
 ## Methode
-
 ### Uitvoering
 
 - Schrijf het nummer op van het potje met onbekende stof die je hebt gekregen.
@@ -63,7 +60,7 @@ Omdat we de stof zoet vonden ruiken en wit eruit zag, dachten we dat het poeders
 ## Waarnemingen en resultaten
 Tabel 1.1: onderzoeksresultaten
 
-| Stof         | Hoe het ruikt en eruitziet en zo™ (#TODO:)                       | Soort mengsel in water | PH-waarde | Zoutzuur toevoegen                   |
+| Stof         | Hoe het ruikt en eruitziet en zo™ (#TODO:)                       | Soort mengsel in water | pH-waarde | Zoutzuur toevoegen                   |
 |--------------|------------------------------------------------------------------|------------------------|-----------|--------------------------------------|
 | Stof 16      | Wit poeder, ruikt zoet                                           | Oplossing              | 8,5       | Stof 16 bruist                       |
 | Krijt        | Kleverig, wit poeder                                             | Suspensie              | 6,1       | Het Krijt bruist voor een lange tijd |
@@ -74,17 +71,15 @@ Tabel 1.1: onderzoeksresultaten
 
 ## Discussie
 
-Bespreek je resultaten en zet uiteen hoe je met deze resultaten antwoord kunt geven op je onderzoeksvraag.
-
-##### TODO: Docent vragen wat er hier moet staan
-redenen waarom de stoffen hetzelfde zijn
-en waarom stof 16 niet één van de andere stoffen is.
+Wij denken dat soda 16 is soda omdat de pH-waarde het meest overeenkwam, en het allebei bruisde wanneer zoutzuur werd toegevoegd.
+Het is niet krijt of meel omdat krijt in water een suspensie is, en stof 16 een oplossing.
+Het is ook niet poedersuiker of meel, omdat ze niet bruisen in water met zoutzuur, en stof 16 wel.
 
 ## Conclusie
-Stof 16 is soda omdat de pH-waarde het meest overeenkwam, en het allebei bruisde wanneer zoutzuur werd toegevoegd.
+Stof 16 is soda.
 
 ## Reflectie
 
-De proef ging goed, maar we vonden het lastig om met de PH-papiertjes te werken. (we zijn gwn mid in zien of een vloeistof troebel is)
+De proef ging goed, maar we vonden het lastig om met de pH-papiertjes te werken.
 
 De conclusie is niet zeker, maar het klopt waarschijnlijk wel, omdat we zeer uiteenzettende resultaten hadden.
