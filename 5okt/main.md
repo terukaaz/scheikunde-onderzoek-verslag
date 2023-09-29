@@ -1,15 +1,5 @@
 # Kwalitatief onderzoek naar stof 16
 
-- [x] inleiding
-- [x] Onderzoeksvraag
-- [x] Hypothese
-- [x] Materiaal
-- [x] Methode
-- [x] Waarnemingen
-- [x] Discussie
-- [x] Conclusie
-- [x] Reflectie
-
 > Teru Umene en Huub Hoogweg \
 > klas 3A \
 > \
@@ -19,17 +9,16 @@
 
 ## Inleiding
 
-### Doel
-Het doel van dit onderzoek was om achter te komen welke van de 6 stoffen stof 16 is.
+Het doel van dit onderzoek was om achter te komen welke van de 5 stoffen stof 16 is. We hebben dit gedaan door stofeigenschappen te meten.
 
-## Theorie
+### Theorie
 Elke stof heeft altijd dezelfde stofeigenschappen, dus als stof 16 dezelfde stofeigenschappen heeft als één van de andere stoffen, zijn ze dezelfde stof.
 Met de metingen die we in dit onderzoek doen kunnen we verscheidene stofeigenschappen bepalen.
 
 ## Onderzoeksvraag
  - Welke van de 5 andere stoffen is stof 16?
 
-### Hypothese
+## Hypothese
 Omdat we de stof zoet vonden ruiken en wit eruit zag, dachten we dat het poedersuiker was.
 
 ## Materialen
@@ -49,7 +38,6 @@ Omdat we de stof zoet vonden ruiken en wit eruit zag, dachten we dat het poeders
 - universeel indicatorpapier (pH papier)
 
 ## Methode
-### Uitvoering
 
 - Schrijf het nummer op van het potje met onbekende stof die je hebt gekregen.
 - Beschrijf de stoffen.
